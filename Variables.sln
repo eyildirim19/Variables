@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables6Tekrar", "Variabl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables7AnonymouesTypes", "Variables7AnonymouesTypes\Variables7AnonymouesTypes.csproj", "{FD56890D-CB4A-472A-9A77-C25C0C55F71D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables8Convert", "Variables8Convert\Variables8Convert.csproj", "{6A61B828-1829-4DD2-A852-96DED53935CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{FD56890D-CB4A-472A-9A77-C25C0C55F71D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD56890D-CB4A-472A-9A77-C25C0C55F71D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD56890D-CB4A-472A-9A77-C25C0C55F71D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A61B828-1829-4DD2-A852-96DED53935CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A61B828-1829-4DD2-A852-96DED53935CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A61B828-1829-4DD2-A852-96DED53935CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A61B828-1829-4DD2-A852-96DED53935CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
