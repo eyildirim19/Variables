@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables1", "Variables1\Variables1.csproj", "{E854EFB6-6BE2-4432-BFB1-71DBACB2418F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables1", "Variables1\Variables1.csproj", "{E854EFB6-6BE2-4432-BFB1-71DBACB2418F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables2", "Variables2\Variables2.csproj", "{99E1B324-28D6-4632-BB81-CDC6B20E7647}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables2", "Variables2\Variables2.csproj", "{99E1B324-28D6-4632-BB81-CDC6B20E7647}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables3TypeCasting", "Variables3TypeConversion\Variables3TypeCasting.csproj", "{E88C75FE-9864-4CE7-9ECB-A0A86C50C1EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables3TypeCasting", "Variables3TypeConversion\Variables3TypeCasting.csproj", "{E88C75FE-9864-4CE7-9ECB-A0A86C50C1EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables4TypeConversion", "Variables4TypeConversion\Variables4TypeConversion.csproj", "{85B06E2A-419B-42A1-B427-2DC3E337171E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables4TypeConversion", "Variables4TypeConversion\Variables4TypeConversion.csproj", "{85B06E2A-419B-42A1-B427-2DC3E337171E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables5Operators", "Variables5Operators\Variables5Operators.csproj", "{83425918-1904-499B-BA73-D5843ED8F514}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables5Operators", "Variables5Operators\Variables5Operators.csproj", "{83425918-1904-499B-BA73-D5843ED8F514}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables6Tekrar", "Variables6Tekrar\Variables6Tekrar.csproj", "{FFD1C20F-1D9D-432D-87CA-7C972816BB51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables7AnonymouesTypes", "Variables7AnonymouesTypes\Variables7AnonymouesTypes.csproj", "{FD56890D-CB4A-472A-9A77-C25C0C55F71D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{83425918-1904-499B-BA73-D5843ED8F514}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83425918-1904-499B-BA73-D5843ED8F514}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83425918-1904-499B-BA73-D5843ED8F514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFD1C20F-1D9D-432D-87CA-7C972816BB51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD1C20F-1D9D-432D-87CA-7C972816BB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD1C20F-1D9D-432D-87CA-7C972816BB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD1C20F-1D9D-432D-87CA-7C972816BB51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD56890D-CB4A-472A-9A77-C25C0C55F71D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD56890D-CB4A-472A-9A77-C25C0C55F71D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD56890D-CB4A-472A-9A77-C25C0C55F71D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD56890D-CB4A-472A-9A77-C25C0C55F71D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
